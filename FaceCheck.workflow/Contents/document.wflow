@@ -349,7 +349,8 @@ else
 fi
 
 killall FaceTime
-open -a "/Applications/FaceTime.app"</string>
+open -a "/Applications/FaceTime.app"
+killall FaceTime</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -472,14 +473,14 @@ open -a "/Applications/FaceTime.app"</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>93FEC552-1870-40C9-A50F-9058B79936FA</key>
+		<key>3965733C-553E-4676-AB5A-B841C4677DD6</key>
 		<dict>
 			<key>from</key>
 			<string>76876910-D01D-48B1-B12A-BA9720F602F2 - 76876910-D01D-48B1-B12A-BA9720F602F2</string>
 			<key>to</key>
 			<string>B413B57A-CBE9-4DFF-A735-9D9A73682C40 - B413B57A-CBE9-4DFF-A735-9D9A73682C40</string>
 		</dict>
-		<key>A9E46C77-4191-4DB9-8C6F-13B7346152D7</key>
+		<key>954F95ED-BDF0-4639-9B2C-22C7371CF4C1</key>
 		<dict>
 			<key>from</key>
 			<string>B413B57A-CBE9-4DFF-A735-9D9A73682C40 - B413B57A-CBE9-4DFF-A735-9D9A73682C40</string>
